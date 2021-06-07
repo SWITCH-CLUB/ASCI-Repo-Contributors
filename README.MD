@@ -10,7 +10,7 @@ Created a website to display number of commits made by members in an org.
 ![ASCI-2021 Contributors List](https://i.ibb.co/Q6rR2Gp/image.png)
 ## Deployment
 
-Deploy to [Netlify](https://netlify.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c864b062-7643-4b4b-afda-00f73cf1b763/deploy-status)](https://app.netlify.com/sites/ascirepocontributors/deploys)
 
   
 ## Tech Stack
